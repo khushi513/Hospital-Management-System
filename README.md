@@ -1,5 +1,5 @@
 
-# Hospital Management
+# Hospital Management System
 ---
 #For mobile app go to --> https://github.com/gargvani/Healthcare
 ## Functions
