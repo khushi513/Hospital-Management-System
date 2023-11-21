@@ -1,6 +1,7 @@
 
 # Hospital Management
 ---
+#For mobile app go to --> https://github.com/gargvani/Healthcare
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).
